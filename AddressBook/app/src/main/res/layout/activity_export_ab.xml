@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.rustybucket.addressbook422.exportAB">
+
+    <include android:id="@+id/app_bar"
+        layout="@layout/app_bar" />
+
+    <!-- TODO: implement activity layout -->
+
+</android.support.constraint.ConstraintLayout>
