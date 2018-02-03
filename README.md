@@ -1,5 +1,5 @@
 ### Android: Address Book
-Author: Adam Chen Erik Lopez Raya Jeff Knees Brandon Sov Shohei Etzel
+Author: Adam Chen, Erik Lopez Raya, Jeff Knees, Brandon Sov, Shohei Etzel
 
 A group project for an address book.
 
